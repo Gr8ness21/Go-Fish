@@ -1,4 +1,4 @@
-Live Site: https://pavloskaralis.github.io/go-fish/
+Live Site: N/A
 
 Languages Used: HTML, CSS, JS
 
